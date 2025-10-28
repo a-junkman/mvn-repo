@@ -269,5 +269,6 @@
     <modules>
         <module>luban-core</module>
         <module>luban-main</module>
+        <module>luban-common</module>
     </modules>
 </project>
