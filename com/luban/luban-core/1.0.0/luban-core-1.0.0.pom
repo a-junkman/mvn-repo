@@ -16,6 +16,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.luban</groupId>
+            <artifactId>luban-common</artifactId>
+            <version>${revision}</version>
+        </dependency>
     </dependencies>
 
 </project>
