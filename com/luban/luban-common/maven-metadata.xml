@@ -3,10 +3,10 @@
   <groupId>com.luban</groupId>
   <artifactId>luban-common</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>SNAPSHOT-1.0.0</release>
     <versions>
-      <version>1.0.0</version>
+      <version>SNAPSHOT-1.0.0</version>
     </versions>
-    <lastUpdated>20251028094657</lastUpdated>
+    <lastUpdated>20251031005741</lastUpdated>
   </versioning>
 </metadata>
